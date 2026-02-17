@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "1000hp",
+  "base_artist": "Godsmack",
+  "createdAt": "2026-02-17T09:56:25.836158Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "1000hp",
+      "artist": "Godsmack",
+      "has_synced": true,
+      "path": "select/01_1000hp_Godsmack.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "1000Hp (Clean)",
+      "artist": "Godsmack",
+      "has_synced": true,
+      "path": "select/02_1000Hp_(Clean)_Godsmack.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "1000hp",
+      "artist": "Godsmack",
+      "has_synced": true,
+      "path": "select/03_1000hp_Godsmack.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "1000hp",
+      "artist": "Godsmack",
+      "has_synced": true,
+      "path": "select/04_1000hp_Godsmack.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "1000hp",
+      "artist": "Godsmack",
+      "has_synced": true,
+      "path": "select/05_1000hp_Godsmack.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "1000hp (Radio Edit)",
+      "artist": "Godsmack",
+      "has_synced": true,
+      "path": "select/06_1000hp_(Radio_Edit)_Godsmack.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "1000hp",
+      "artist": "Godsmack",
+      "has_synced": true,
+      "path": "select/07_1000hp_Godsmack.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "1000hp",
+      "artist": "Godsmack",
+      "has_synced": true,
+      "path": "select/08_1000hp_Godsmack.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "1000hp [Explicit]",
+      "artist": "Godsmack",
+      "has_synced": true,
+      "path": "select/09_1000hp_[Explicit]_Godsmack.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "1000hp",
+      "artist": "Godsmack",
+      "has_synced": true,
+      "path": "select/10_1000hp_Godsmack.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "1000hp",
+      "artist": "Godsmack",
+      "has_synced": true,
+      "path": "select/11_1000hp_Godsmack.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "1000hp",
+      "artist": "21. Godsmack",
+      "has_synced": true,
+      "path": "select/12_1000hp_21._Godsmack.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "1000hp",
+      "artist": "Godsmack",
+      "has_synced": false,
+      "path": "select/pl_01_1000hp_Godsmack.txt"
+    }
+  ]
+}
